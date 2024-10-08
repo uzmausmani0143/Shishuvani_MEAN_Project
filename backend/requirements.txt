@@ -4,9 +4,18 @@ cors
 bcrypt
 jsonwebtoken
 
-"express@4.18.2
+
+"For backend
+npm install
+express@4.18.2
 mongoose@6.12.0
 cors@2.8.5
 bcrypt@5.1.0
 jsonwebtoken@9.0.0
-"
+
+For frontend
+npm install
+npm install -g @angular/cli
+npm install --save-dev @angular-devkit/build-angular"
+
+
